@@ -7,7 +7,7 @@ public class FirstTest {
 	@Test
 	public void funA()
 	{
-		System.out.println("FIRSTTEST     FUN A");
+		System.out.println("FI   RSTTEST      FUN A");
 	}
 	@Test
 	public void funb()
