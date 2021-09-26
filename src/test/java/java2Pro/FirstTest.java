@@ -12,7 +12,7 @@ public class FirstTest {
 	@Test
 	public void funb()
 	{
-		System.out.println("FIRST TEST FUN B");
+		System.out.println("FIRST    TEST FUN B changed");
 	}
 
 }
